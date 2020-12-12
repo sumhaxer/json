@@ -1,0 +1,7 @@
+{"root": {"password": "admin",
+                 "authed": "Paid",
+                 "reason": "clear"},
+         "guest": {"password": "guest",
+                   "authed": "Free",
+                   "reason": "clear"}
+}

@@ -1,7 +1,9 @@
 {"root": {"password": "admin",
                  "authed": "Paid",
-                 "reason": "clear"},
+                 "reason": "clear",
+                 "hwid": ""},
          "guest": {"password": "guest",
                    "authed": "Banned",
-                   "reason": "Account Trading"}
+                   "reason": "Account Trading",
+                   "hwid": ""}
 }

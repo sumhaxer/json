@@ -3,7 +3,11 @@
                  "reason": "clear",
                  "hwid": ""},
          "guest": {"password": "guest",
-                   "authed": "Banned",
-                   "reason": "Account Trading",
-                   "hwid": ""}
+                   "authed": "Free",
+                   "reason": "clear",
+                   "hwid": ""},
+         "gamer42": {"password": "secure25",
+                     "authed": "Free",
+                     "reason": "clear",
+                     "hwid": ""}
 }

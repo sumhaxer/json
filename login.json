@@ -2,6 +2,6 @@
                  "authed": "Paid",
                  "reason": "clear"},
          "guest": {"password": "guest",
-                   "authed": "Free",
-                   "reason": "clear"}
+                   "authed": "Banned",
+                   "reason": "Account Trading"}
 }
